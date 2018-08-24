@@ -1,4 +1,4 @@
 package netty.mahjong.lw.handler;
 
-public class Test {
+public class GameChannelHandler {
 }
